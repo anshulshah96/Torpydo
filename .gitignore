@@ -49,3 +49,9 @@ docs/_build/
 #Torrent Files
 *.torrent
 *.torrent.added
+
+#Idea
+.idea/
+
+#Extras Folder
+/Extra
