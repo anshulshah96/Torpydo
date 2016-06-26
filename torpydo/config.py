@@ -1,0 +1,3 @@
+CLIENT_NAME = "torpydo"
+CLIENT_ID = "TY"
+CLIENT_VERSION = "0001"
